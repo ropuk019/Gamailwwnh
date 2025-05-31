@@ -2,10 +2,11 @@
   "name": "GmailSellerBot",
   "description": "Bot for selling Gmail accounts with admin approval",
   "version": "2.0",
-  "bot_token": "7911198465:AAFzYGLm0Pe_DICKYOXg2Tsyc27s6d933GQ",
+  "bb_sync_version": "1.0",  // ← THIS IS THE CRITICAL FIX
+  "bot_token": "7911198465:AAFzYGLmOPe_DICKYOXgZTsyc27s6d933GQ",
   "admins": [7293015189],
   "start_command": "/start",
   "language": "en",
   "workers": 2,
-  "webhook_url": ""
+  "webhook_url": "" 
 }
