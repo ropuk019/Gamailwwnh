@@ -1,10 +1,11 @@
 {
-  "name": "Gmail Selling Bot",
-  "description": "A bot for selling Gmail accounts with withdrawal system",
-  "version": "1.0",
+  "name": "GmailSellerBot",
+  "description": "Bot for selling Gmail accounts with admin approval",
+  "version": "2.0",
   "bot_token": "7911198465:AAFzYGLm0Pe_DICKYOXg2Tsyc27s6d933GQ",
   "admins": [7293015189],
   "start_command": "/start",
   "language": "en",
-  "workers": 4
+  "workers": 2,
+  "webhook_url": ""
 }
